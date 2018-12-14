@@ -12,7 +12,7 @@ def send_mail(mail, randoms):
     smtpsever = 'smtp.qq.com'
     # 邮箱的账号授权码
     user = '70469793@qq.com'
-    password = 'foaodprvtffxbgjj'
+    password = ''
     # 用来发送的邮箱
     sender = '70469793@qq.com'
     # 用来接收的邮箱，需要用户输入
